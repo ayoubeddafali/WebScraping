@@ -1,0 +1,101 @@
+<optgroup label="Tanger-Tetouan-Al Hoceima"> 
+<optgroup label="Tanger-Tetouan-Al Hoceima"> 
+<optgroup label="Tanger-Tetouan-Al Hoceima"> 
+	 <option value="Prefecture de Tanger-Assilah">Prefecture de Tanger-Assilah</option> 
+	 <option value="Prefecture de M'diq-Fnideq">Prefecture de M'diq-Fnideq</option> 
+	 <option value="Province de Tetouan">Province de Tetouan</option> 
+	 <option value="Province de Fahs-Anjra">Province de Fahs-Anjra</option> 
+	 <option value="Province de Larache">Province de Larache</option> 
+	 <option value="Province d'Al Hoceima">Province d'Al Hoceima</option> 
+	 <option value="Province de Chefchaouen">Province de Chefchaouen</option> 
+	 <option value="Province de Ouezzane">Province de Ouezzane</option> 
+</optgroup> 
+<optgroup label="L'Oriental"> 
+	 <option value="Prefecture d'Oujda-Angad">Prefecture d'Oujda-Angad</option> 
+	 <option value="Province de Nador">Province de Nador</option> 
+	 <option value="Province de Driouch">Province de Driouch</option> 
+	 <option value="Province de Jerada">Province de Jerada</option> 
+	 <option value="Province de Berkane">Province de Berkane</option> 
+	 <option value="Province de Taourirt">Province de Taourirt</option> 
+	 <option value="Province de Guercif">Province de Guercif</option> 
+	 <option value="Province de Figuig">Province de Figuig</option> 
+</optgroup> 
+<optgroup label="Fes-Meknes"> 
+	 <option value="Prefecture de Fes">Prefecture de Fes</option> 
+	 <option value="Prefecture de Meknes">Prefecture de Meknes</option> 
+	 <option value="Province de Taza">Province de Taza</option> 
+	 <option value="Province dEl Hajeb">Province dEl Hajeb</option> 
+	 <option value="Province dIfrane">Province dIfrane</option> 
+	 <option value="Province de Moulay Yaacoub">Province de Moulay Yaacoub</option> 
+	 <option value="Province de Sefrou">Province de Sefrou</option> 
+	 <option value="Province de Boulemane">Province de Boulemane</option> 
+	 <option value="Province de Taounate">Province de Taounate</option> 
+</optgroup> 
+<optgroup label="Rabat-Sale-Kenitra"> 
+	 <option value="Prefecture de Rabat">Prefecture de Rabat</option> 
+	 <option value="Prefecture de Sale">Prefecture de Sale</option> 
+	 <option value="Prefecture de Skhirate-Temara">Prefecture de Skhirate-Temara</option> 
+	 <option value="Province de Kenitra">Province de Kenitra</option> 
+	 <option value="Province de Khemisset">Province de Khemisset</option> 
+	 <option value="Province de Sidi Kacem">Province de Sidi Kacem</option> 
+	 <option value="Province de Sidi Slimane">Province de Sidi Slimane</option> 
+</optgroup> 
+<optgroup label="Beni Mellal-Khenifra"> 
+	 <option value="Province de Beni-Mellal">Province de Beni-Mellal</option> 
+	 <option value="Province d'Azilal">Province d'Azilal</option> 
+	 <option value="Province de Fquih Ben Salah">Province de Fquih Ben Salah</option> 
+	 <option value="Province de Khenifra">Province de Khenifra</option> 
+	 <option value="Province de Khouribga">Province de Khouribga</option> 
+</optgroup> 
+<optgroup label="Casablanca-Settat"> 
+	 <option value="Prefecture de Casablanca">Prefecture de Casablanca</option> 
+	 <option value="Prefecture de Mohammedia">Prefecture de Mohammedia</option> 
+	 <option value="Province d'El Jadida">Province d'El Jadida</option> 
+	 <option value="Province de Nouaceur">Province de Nouaceur</option> 
+	 <option value="Province de Mediouna">Province de Mediouna</option> 
+	 <option value="Province de Benslimane">Province de Benslimane</option> 
+	 <option value="Province de Berrechid">Province de Berrechid</option> 
+	 <option value="Province de Settat">Province de Settat</option> 
+	 <option value="Province de Sidi Bennour">Province de Sidi Bennour</option> 
+</optgroup> 
+<optgroup label="Marrakech-Safi"> 
+	 <option value="Prefecture de Marrakech">Prefecture de Marrakech</option> 
+	 <option value="Province de Chichaoua">Province de Chichaoua</option> 
+	 <option value="Province d'Al Haouz">Province d'Al Haouz</option> 
+	 <option value="Province d'El Kelaa des Sraghna">Province d'El Kelaa des Sraghna</option> 
+	 <option value="Province d'Essaouira">Province d'Essaouira</option> 
+	 <option value="Province de Rehamna">Province de Rehamna</option> 
+	 <option value="Province de Safi">Province de Safi</option> 
+	 <option value="Province de Youssoufia">Province de Youssoufia</option> 
+</optgroup> 
+<optgroup label="Draa-Tafilalet"> 
+	 <option value="Province d'Errachidia">Province d'Errachidia</option> 
+	 <option value="Province de Ouarzazate">Province de Ouarzazate</option> 
+	 <option value="Province de Midelt">Province de Midelt</option> 
+	 <option value="Province de Tinghir">Province de Tinghir</option> 
+	 <option value="Province de Zagora">Province de Zagora</option> 
+</optgroup> 
+<optgroup label="Souss-Massa"> 
+	 <option value="Prefecture d'Agadir Ida-Outanane">Prefecture d'Agadir Ida-Outanane</option> 
+	 <option value="Prefecture d'Inezgane-Ait Melloul">Prefecture d'Inezgane-Ait Melloul</option> 
+	 <option value="Province de Chtouka-Ait Baha">Province de Chtouka-Ait Baha</option> 
+	 <option value="Province de Taroudant">Province de Taroudant</option> 
+	 <option value="Province de Tiznit">Province de Tiznit</option> 
+	 <option value="Province de Tata">Province de Tata</option> 
+</optgroup> 
+<optgroup label="Guelmim-Oued Noun"> 
+	 <option value="Province de Guelmim">Province de Guelmim</option> 
+	 <option value="Province d'Assa-Zag">Province d'Assa-Zag</option> 
+	 <option value="Province de Tan-Tan">Province de Tan-Tan</option> 
+	 <option value="Province de Sidi Ifni">Province de Sidi Ifni</option> 
+</optgroup> 
+<optgroup label="Laayoune-Sakia El Hamra"> 
+	 <option value="Province de Laayoune">Province de Laayoune</option> 
+	 <option value="Province de Boujdour">Province de Boujdour</option> 
+	 <option value="Province de Tarfaya">Province de Tarfaya</option> 
+	 <option value="Province d'Es-Semara">Province d'Es-Semara</option> 
+</optgroup> 
+<optgroup label="Dakhla-Oued Ed-Dahab"> 
+	 <option value="Province d'Oued Ed-Dahab">Province d'Oued Ed-Dahab</option> 
+	 <option value="Province d'Aousserd">Province d'Aousserd</option> 
+</optgroup> 

@@ -1,0 +1,99 @@
+<optgroup label="Tanger-Tetouan-Al Hoceima"> 
+	 <option value="4">Prefecture de Tanger-Assilah</option> 
+	 <option value="5">Prefecture de M'diq-Fnideq</option> 
+	 <option value="6">Province de Tetouan</option> 
+	 <option value="7">Province de Fahs-Anjra</option> 
+	 <option value="8">Province de Larache</option> 
+	 <option value="9">Province d'Al Hoceima</option> 
+	 <option value="10">Province de Chefchaouen</option> 
+	 <option value="11">Province de Ouezzane</option> 
+</optgroup> 
+<optgroup label="L'Oriental"> 
+	 <option value="13">Prefecture d'Oujda-Angad</option> 
+	 <option value="14">Province de Nador</option> 
+	 <option value="15">Province de Driouch</option> 
+	 <option value="16">Province de Jerada</option> 
+	 <option value="17">Province de Berkane</option> 
+	 <option value="18">Province de Taourirt</option> 
+	 <option value="19">Province de Guercif</option> 
+	 <option value="20">Province de Figuig</option> 
+</optgroup> 
+<optgroup label="Fes-Meknes"> 
+	 <option value="22">Prefecture de Fes</option> 
+	 <option value="23">Prefecture de Meknes</option> 
+	 <option value="24">Province de Taza</option> 
+	 <option value="25">Province dEl Hajeb</option> 
+	 <option value="26">Province dIfrane</option> 
+	 <option value="27">Province de Moulay Yaacoub</option> 
+	 <option value="28">Province de Sefrou</option> 
+	 <option value="29">Province de Boulemane</option> 
+	 <option value="30">Province de Taounate</option> 
+</optgroup> 
+<optgroup label="Rabat-Sale-Kenitra"> 
+	 <option value="32">Prefecture de Rabat</option> 
+	 <option value="33">Prefecture de Sale</option> 
+	 <option value="34">Prefecture de Skhirate-Temara</option> 
+	 <option value="35">Province de Kenitra</option> 
+	 <option value="36">Province de Khemisset</option> 
+	 <option value="37">Province de Sidi Kacem</option> 
+	 <option value="38">Province de Sidi Slimane</option> 
+</optgroup> 
+<optgroup label="Beni Mellal-Khenifra"> 
+	 <option value="40">Province de Beni-Mellal</option> 
+	 <option value="41">Province d'Azilal</option> 
+	 <option value="42">Province de Fquih Ben Salah</option> 
+	 <option value="43">Province de Khenifra</option> 
+	 <option value="44">Province de Khouribga</option> 
+</optgroup> 
+<optgroup label="Casablanca-Settat"> 
+	 <option value="46">Prefecture de Casablanca</option> 
+	 <option value="47">Prefecture de Mohammedia</option> 
+	 <option value="48">Province d'El Jadida</option> 
+	 <option value="49">Province de Nouaceur</option> 
+	 <option value="50">Province de Mediouna</option> 
+	 <option value="51">Province de Benslimane</option> 
+	 <option value="52">Province de Berrechid</option> 
+	 <option value="53">Province de Settat</option> 
+	 <option value="54">Province de Sidi Bennour</option> 
+</optgroup> 
+<optgroup label="Marrakech-Safi"> 
+	 <option value="56">Prefecture de Marrakech</option> 
+	 <option value="57">Province de Chichaoua</option> 
+	 <option value="58">Province d'Al Haouz</option> 
+	 <option value="59">Province d'El Kelaa des Sraghna</option> 
+	 <option value="60">Province d'Essaouira</option> 
+	 <option value="61">Province de Rehamna</option> 
+	 <option value="62">Province de Safi</option> 
+	 <option value="63">Province de Youssoufia</option> 
+</optgroup> 
+<optgroup label="Draa-Tafilalet"> 
+	 <option value="65">Province d'Errachidia</option> 
+	 <option value="66">Province de Ouarzazate</option> 
+	 <option value="67">Province de Midelt</option> 
+	 <option value="68">Province de Tinghir</option> 
+	 <option value="69">Province de Zagora</option> 
+</optgroup> 
+<optgroup label="Souss-Massa"> 
+	 <option value="71">Prefecture d'Agadir Ida-Outanane</option> 
+	 <option value="72">Prefecture d'Inezgane-Ait Melloul</option> 
+	 <option value="73">Province de Chtouka-Ait Baha</option> 
+	 <option value="74">Province de Taroudant</option> 
+	 <option value="75">Province de Tiznit</option> 
+	 <option value="76">Province de Tata</option> 
+</optgroup> 
+<optgroup label="Guelmim-Oued Noun"> 
+	 <option value="78">Province de Guelmim</option> 
+	 <option value="79">Province d'Assa-Zag</option> 
+	 <option value="80">Province de Tan-Tan</option> 
+	 <option value="81">Province de Sidi Ifni</option> 
+</optgroup> 
+<optgroup label="Laayoune-Sakia El Hamra"> 
+	 <option value="83">Province de Laayoune</option> 
+	 <option value="84">Province de Boujdour</option> 
+	 <option value="85">Province de Tarfaya</option> 
+	 <option value="86">Province d'Es-Semara</option> 
+</optgroup> 
+<optgroup label="Dakhla-Oued Ed-Dahab"> 
+	 <option value="88">Province d'Oued Ed-Dahab</option> 
+	 <option value="89">Province d'Aousserd</option> 
+</optgroup> 
